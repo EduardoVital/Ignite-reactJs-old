@@ -1,0 +1,17 @@
+main {
+  .link {
+    display: block;
+
+    width: fit-content;
+  }
+
+  .loadMore {
+    font-size: 1.125rem;
+    color: var(--pink);
+    cursor: pointer;
+    width: fit-content;
+    margin: 1rem 0;
+    background: transparent;
+    border: none;
+  }
+}
